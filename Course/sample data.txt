@@ -3,7 +3,7 @@
         "category": "JAVA_BEGINNER",
         "startDate": "2023-07-01",
         "endDate": "2023-07-31",
-        "fee": 100.0,
+        "fee": 100.0
 }
 
 {
